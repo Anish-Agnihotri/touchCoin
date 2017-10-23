@@ -28,3 +28,15 @@ To run our mobile application simply run the source files with the Android SDK.
 
 Website:
 To run our website, download the source files and open the ```index.html``` file with your favourite web browser. Do note, this may not work with older versions of the Opera or Internet Explorer browsers. 
+
+## Software Usage
+We used the following technologies: 
+
+1. C++ libraries - CMake, Boost, GCC (Compiler) 
+2. Cryptonote-starter fork. 
+3. Android SDK 
+4. Boostrap 
+
+## Fancy screenshots of it working 
+
+## Thanks for reading!
