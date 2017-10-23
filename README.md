@@ -39,4 +39,6 @@ We used the following technologies:
 
 ## Fancy screenshots of it working 
 
+![Our Website](https://i.imgur.com/1z0cN85.gifv "Our Website")
+
 ## Thanks for reading!
