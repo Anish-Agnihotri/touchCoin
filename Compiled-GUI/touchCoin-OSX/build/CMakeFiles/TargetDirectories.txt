@@ -1,0 +1,6 @@
+/Users/anishagnihotri/Downloads/cryptonotewallet-master/build/CMakeFiles/rebuild_cache.dir
+/Users/anishagnihotri/Downloads/cryptonotewallet-master/build/CMakeFiles/edit_cache.dir
+/Users/anishagnihotri/Downloads/cryptonotewallet-master/build/CMakeFiles/touchCoin.dir
+/Users/anishagnihotri/Downloads/cryptonotewallet-master/build/CMakeFiles/cryptonote.dir
+/Users/anishagnihotri/Downloads/cryptonotewallet-master/build/CMakeFiles/touchCoin_autogen.dir
+/Users/anishagnihotri/Downloads/cryptonotewallet-master/build/CMakeFiles/cryptonote_autogen.dir

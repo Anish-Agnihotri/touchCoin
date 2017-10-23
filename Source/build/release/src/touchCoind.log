@@ -1,0 +1,59 @@
+2017-Oct-22 05:44:36.979176 INFO [daemon] touchCoin v1.1.1.1(0.1-g8edd99830)
+2017-Oct-22 05:44:36.980870 INFO [daemon] Module folder: ./touchCoind
+2017-Oct-22 05:44:36.982840 INFO [daemon] Initializing p2p server...
+2017-Oct-22 05:44:36.983228 INFO [node_server] Binding on 0.0.0.0:17236
+2017-Oct-22 05:44:36.983405 INFO [node_server] Net service binded on 0.0.0.0:17236
+2017-Oct-22 05:44:36.983486 INFO [node_server] Attempting to add IGD port mapping.
+2017-Oct-22 05:44:40.988449 INFO [node_server] No IGD was found.
+2017-Oct-22 05:44:40.988741 INFO [daemon] P2p server initialized OK
+2017-Oct-22 05:44:40.988987 INFO [daemon] Initializing core...
+2017-Oct-22 05:44:40.989448 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Oct-22 05:44:41.033254 INFO [Blockchain] Blockchain initialized. last block: 0, d1936.h0.m44.s41 time ago, current difficulty: 1
+2017-Oct-22 05:44:41.033577 INFO [daemon] Core initialized OK
+2017-Oct-22 05:44:41.033962 INFO [daemon] Starting core rpc server on address 127.0.0.1:18236
+2017-Oct-22 05:44:41.034299 INFO [daemon] Core rpc server started ok
+2017-Oct-22 05:44:41.034552 INFO [daemon] Starting p2p net loop...
+2017-Oct-22 05:44:41.034775 INFO [node_server] Starting node_server
+2017-Oct-22 05:44:41.038391 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:41.038536 INFO [core] 
+2017-Oct-22 05:44:41.038536 INFO [core] **********************************************************************
+2017-Oct-22 05:44:41.038536 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Oct-22 05:44:41.038536 INFO [core] 
+2017-Oct-22 05:44:41.038536 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Oct-22 05:44:41.038536 INFO [core] 
+2017-Oct-22 05:44:41.038536 INFO [core] Use "help" command to see the list of available commands.
+2017-Oct-22 05:44:41.038536 INFO [core] 
+2017-Oct-22 05:44:41.038536 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Oct-22 05:44:41.038536 INFO [core] **********************************************************************
+2017-Oct-22 05:44:43.041080 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:45.042612 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:47.044720 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:49.046575 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:51.048593 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:53.050433 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:55.052451 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:57.054094 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:44:59.055926 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:45:01.057894 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:45:03.060420 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Oct-22 05:45:04.979395 INFO [node_server] Stop signal sent
+2017-Oct-22 05:45:04.979669 INFO [node_server] Stopping NodeServer and it's0 connections...
+2017-Oct-22 05:45:04.979912 INFO [node_server] NodeServer loop stopped
+2017-Oct-22 05:45:04.980079 INFO [daemon] p2p net loop stopped
+2017-Oct-22 05:45:04.980194 INFO [daemon] Stopping core rpc server...
+2017-Oct-22 05:45:04.980355 INFO [daemon] Deinitializing core...
+2017-Oct-22 05:45:04.980465 INFO [miner] Mining has been stopped, 0 finished
+2017-Oct-22 05:45:04.980708 INFO [Blockchain] Saving blockchain...
+2017-Oct-22 05:45:04.980930 INFO [BlockCacheSerializer] - saving block index...
+2017-Oct-22 05:45:04.981105 INFO [BlockCacheSerializer] - saving transaction map...
+2017-Oct-22 05:45:04.981211 INFO [BlockCacheSerializer] - saving spent keys...
+2017-Oct-22 05:45:04.981298 INFO [BlockCacheSerializer] - saving outputs...
+2017-Oct-22 05:45:04.981382 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2017-Oct-22 05:45:04.981467 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Oct-22 05:45:04.981618 INFO [Blockchain] Saving blockchain indices...
+2017-Oct-22 05:45:04.981763 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2017-Oct-22 05:45:04.981863 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2017-Oct-22 05:45:04.981988 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2017-Oct-22 05:45:04.982112 INFO [daemon] Deinitializing p2p...
+2017-Oct-22 05:45:04.982363 INFO [miner] Mining has been stopped, 0 finished
+2017-Oct-22 05:45:04.983100 INFO [daemon] Node stopped.

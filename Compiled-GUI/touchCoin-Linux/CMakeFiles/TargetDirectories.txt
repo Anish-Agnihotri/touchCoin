@@ -1,0 +1,4 @@
+/root/cryptonotewallet-master/build/CMakeFiles/cryptonote.dir
+/root/cryptonotewallet-master/build/CMakeFiles/cryptonote_automoc.dir
+/root/cryptonotewallet-master/build/CMakeFiles/touchCoin.dir
+/root/cryptonotewallet-master/build/CMakeFiles/touchCoin_automoc.dir

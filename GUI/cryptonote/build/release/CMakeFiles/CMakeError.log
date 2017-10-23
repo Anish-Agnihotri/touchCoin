@@ -1,0 +1,47 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if files pthread.h exist failed with the following output:
+Change Dir: /root/cryptonote-master/build/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2671739893/fast"
+make[1]: Entering directory `/root/cryptonote-master/build/release/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2671739893.dir/build.make CMakeFiles/cmTryCompileExec2671739893.dir/build
+make[2]: Entering directory `/root/cryptonote-master/build/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/cryptonote-master/build/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2671739893.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -std=c11  -Wall -Wextra -Wpointer-arith -Wundef -Wvla -Wwrite-strings -Werror -Wno-error=extra -Wno-error=unused-function -Wno-error=deprecated-declarations -Wno-error=sign-compare -Wno-error=strict-aliasing -Wno-error=type-limits -Wno-unused-parameter -Wno-error=unused-variable -Wno-error=undef -Wno-error=uninitialized -Wno-error=unused-result -Wlogical-op -Wno-error=maybe-uninitialized -Wno-error=clobbered -Wno-error=unused-but-set-variable -Waggregate-return -Wnested-externs -Wold-style-definition -Wstrict-prototypes -march=native -maes    -o CMakeFiles/cmTryCompileExec2671739893.dir/CheckIncludeFiles.c.o   -c /root/cryptonote-master/build/release/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/root/cryptonote-master/build/release/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:5:5: error: function declaration isn’t a prototype [-Werror=strict-prototypes]
+ int main(){return 0;}
+     ^
+/root/cryptonote-master/build/release/CMakeFiles/CMakeTmp/CheckIncludeFiles.c: In function ‘main’:
+/root/cryptonote-master/build/release/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:5:5: error: old-style function definition [-Werror=old-style-definition]
+cc1: all warnings being treated as errors
+make[2]: *** [CMakeFiles/cmTryCompileExec2671739893.dir/CheckIncludeFiles.c.o] Error 1
+make[2]: Leaving directory `/root/cryptonote-master/build/release/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory `/root/cryptonote-master/build/release/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec2671739893/fast] Error 2
+
+Source:
+/* */
+#include <pthread.h>
+
+
+int main(){return 0;}
+
