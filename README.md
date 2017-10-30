@@ -35,10 +35,14 @@ We used the following technologies:
 1. C++ libraries - CMake, Boost, GCC (Compiler) 
 2. Cryptonote-starter fork. 
 3. Android SDK 
-4. Boostrap 
+4. Boostrap  
 
 ## Fancy screenshots of it working 
 
-![Our Website](http://i.imgur.com/1z0cN85.gif "Our Website")
+![Our Website](https://i.imgur.com/1z0cN85.gif "Our Website")
+
+## Next Steps
+
+We'd like to take our crypto-currency knowledge further and developer future technologies. For now, converting our front-end code to Jade/Sass would be the next step's, alongside redoing the wallet front-end. 
 
 ## Thanks for reading!
