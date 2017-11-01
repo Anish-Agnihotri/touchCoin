@@ -46,3 +46,4 @@ We used the following technologies:
 We'd like to take our crypto-currency knowledge further and developer future technologies. For now, converting our front-end code to Jade/Sass would be the next step's, alongside redoing the wallet front-end. 
 
 ## Thanks for reading!
+Do note: The site attached to this Github has been taken down Nov. 1st 2017. The source files are available in this repository if you wish to run a copy.
