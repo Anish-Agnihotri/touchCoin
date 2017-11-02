@@ -39,7 +39,7 @@ We used the following technologies:
 
 ## Fancy screenshots of it working 
 
-![Our Website](https://i.imgur.com/1z0cN85.gif "Our Website")
+Coming soon!
 
 ## Next Steps
 
